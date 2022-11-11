@@ -15,3 +15,4 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## SCREENSHOT 
+![Screen Shot 2022-11-11 at 12 12 10 AM](https://user-images.githubusercontent.com/112133093/201268410-26b6fec5-21e5-4e57-8006-b5bec886ceeb.png)
